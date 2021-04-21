@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
 	/* string input = "grape"; */
     /* string output1 = sha256(input); */
 	cout << "Bitcoin Miner C++ Version 1\n";
-	cout << "Developed by Ted\n\n";
+	cout << "\n\n";
 	
 	RawInput RWI;
 	cout << "Merkle Root: ";
