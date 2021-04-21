@@ -6,10 +6,10 @@
 #include <string>
 #include <algorithm>
 #include <list>
-#include "rawinput.h"
+#include "CPPHeaders/rawinput.h"
 #include "sha256.h"
-#include "format.h"
-#include "moduledriver.h"
+#include "CPPHeaders/format.h"
+#include "CPPHeaders/moduledriver.h"
 
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
 /* Codes:
