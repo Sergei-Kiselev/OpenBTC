@@ -1,6 +1,8 @@
 # OpenBTC
 Open-sourced Bitcoin Miner
-# Compilation
-As it stands, there is no active release, however you can compile main.cpp, which will run the main file.
-# Contributing
-My testing will be added inside the testing folder, however you can submit a pull request to contribute.
+# Building
+You can compile ```OpenBTC.cpp```, or the Visual Studio project.
+# Using pre-released Binaries
+## Official Releases
+Look under the ```releases``` tab to see the Official Releases. Ensure that you download the correct Processor type / Flavour (Windows: x86 or x64) (Linux: Ubuntu, Raspbian, Kali, Debian)
+## Testing and Releases
