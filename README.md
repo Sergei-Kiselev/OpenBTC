@@ -6,3 +6,4 @@ You can compile ```OpenBTC.cpp```, or the Visual Studio project.
 ## Official Releases
 Look under the ```releases``` tab to see the Official Releases. Ensure that you download the correct Processor type / Flavour (Windows: x86 or x64) (Linux: Ubuntu, Raspbian, Kali, Debian)
 ## Testing and Releases
+Look inside the ```lib``` folder for binaries.
