@@ -1,0 +1,3 @@
+Visual Studio Development
+
+An Element of OpenBTC - Bitcoin Miner, Copyright (C) 2021
