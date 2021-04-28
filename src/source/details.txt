@@ -1,0 +1,3 @@
+Source Code, without VS Files
+
+An element of OpenBTC - Bitcoin Miner Copyright (C) 2021
